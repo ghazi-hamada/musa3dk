@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980047819057",
+    "project_id": "musa3dk-e67a9",
+    "storage_bucket": "musa3dk-e67a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980047819057:android:6b11169cc9914ccd71c010",
+        "android_client_info": {
+          "package_name": "com.example.musa3dk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980047819057-1juj35cp3hkfm0084no3nsd4lk4qvfj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhKl_-r0K7UltelbEKbVMTm4K3f97SpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980047819057-1juj35cp3hkfm0084no3nsd4lk4qvfj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
